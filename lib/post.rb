@@ -3,7 +3,7 @@ class Post
   
   
   def initialize
-    @post
+    Post = @post
   end
   
 
